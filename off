@@ -1,1 +1,1 @@
-global adb_wifi_enabled 0
+global adb_enabled 0
