@@ -1,0 +1,6 @@
+id=usb_debugging
+name=USB Debugging
+version=1.0
+versionCode=1
+author=kakashijk
+description=Simple Setbox module to toggle USB debugging via Shizuku
