@@ -4,4 +4,4 @@ description=Simple module to toggle USB debugging via Setbox
 author=kakashijk
 version=v1.0.0
 versionCode=1
-repository=https://github.com/kakashijk/Setbox-USB-debugging
+repository=https://github.com/kakashijk/usb-debugging
